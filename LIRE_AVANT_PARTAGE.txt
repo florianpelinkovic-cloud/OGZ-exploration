@@ -1,0 +1,10 @@
+OG’Z — THE ASCENT / EXPÉDITION 001
+
+Site complet HTML/CSS/JavaScript, 18 photos, piste MP3 en boucle.
+
+Ouvrir index.html pour prévisualiser.
+Pour un lien partageable, déposer le contenu du dossier sur https://app.netlify.com/drop/ ou un hébergeur statique.
+
+Le son démarre après clic sur « COMMENCEZ L’AVENTURE » (politique des navigateurs).
+La sélection de destination est enregistrée localement. Les votes sont transmis manuellement par WhatsApp, sans serveur de décompte.
+Les sites privés/interdits ne sont pas accessibles sans autorisation.
